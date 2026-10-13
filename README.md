@@ -1,2 +1,2 @@
 # Enhancing-Windows-Security-with-Logon-Monitoring-and-Reporting
-Deployed a Windows in a virtualized lab environment and configured the system to support security monitoring and reporting. Prepared the necessary Windows settings, logging capabilities, and monitoring components to collect the security-related events. The project focused on event monitoring, and security reporting in a controlled lab environment.
+Deployed Windows in a virtualized lab environment and configured the system to support security monitoring and reporting. Prepared the necessary Windows settings, logging capabilities, and monitoring components to collect the security-related events. The project focused on event monitoring, and security reporting in a controlled lab environment.
